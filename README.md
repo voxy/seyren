@@ -88,6 +88,7 @@ Use a [Flow API token](https://www.flowdock.com/account/tokens) as Target when a
 ##### [HipChat](https://www.hipchat.com)
 * `HIPCHAT_AUTHTOKEN` - The hipchat api auth token. Default: ``
 * `HIPCHAT_USERNAME` - The username that messages will be sent from. Default: `Seyren Alert`
+* `HIPCHAT_BASEURL` - The base URL that messages will be posted to. Default: `https://api.hipchat.com`
 
 ##### [Hubot](http://hubot.github.com)
 * `HUBOT_URL` - The location where Hubot is running. Default ``
